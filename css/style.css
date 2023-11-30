@@ -576,7 +576,7 @@
 }
 
 .footer .footer_wrap .footer_top .content select {
-    margin: 0 0 90px 0;
+    margin: 0 0 180px 0;
     padding: 0 80px 0 0;
     border: none;
     background: none;
@@ -587,24 +587,6 @@
 
 .footer .footer_wrap .footer_top .content select option {
     color: #666;
-}
-
-.footer .footer_wrap .footer_top .content .download {
-    line-height: 30px;
-    margin: 0 0 90px 0;
-    color: #000;
-}
-
-.footer .footer_wrap .footer_top .content .download span {
-    padding: 0 5px 0 0;
-    font-size: 12px;
-    font-weight: 400;
-    line-height: 1;
-}
-
-.footer .footer_wrap .footer_top .content .download i {
-    font-size: 30px;
-    vertical-align: middle;
 }
 
 .footer .footer_wrap .footer_top .content .sns {
